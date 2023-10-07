@@ -1,4 +1,6 @@
 # Sales Prediction Using Python
+![](https://miro.medium.com/v2/resize:fit:1000/1*OB6ODKHJN_IfS2IC3rIlQg.png) 
+
 
 ## Author: Md Mahfooz Alam Ansari
 ## Batch: September
